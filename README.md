@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 <h3 align="center">Backend Developer | Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogigan&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22yogigan%22" /> </p>
-
 - 📫 How to reach me **bachtiarnuryogipratama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
